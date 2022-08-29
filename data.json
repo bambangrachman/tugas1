@@ -1,0 +1,22 @@
+{
+    "teman": [
+        {
+            "nama": "rafid",
+            "alamat": "sendang mulyo",
+            "pekerjaan": "mahasiswa",
+            "alasan": "mudah dipelajari"
+        },
+        {
+            "nama": "gidhan",
+            "alamat": "pucang gading",
+            "pekerjaan": "programmer",
+            "alasan": "lebih cepat dari bahasa pemrograman lain"
+        },
+        {
+            "nama": "daffa",
+            "alamat": "gunung pati",
+            "pekerjaan": "intel",
+            "alasan": "memiliki garbage collector"
+        }
+    ]
+}
